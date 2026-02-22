@@ -17,11 +17,6 @@ Mapping evolutionary trajectories into the continuous latent space reveals criti
 ### 3. Proactive Governance & Social Implementation
 Beyond theoretical network analysis, this methodology offers actionable tools for urban planners. By establishing the Functional Drift Vector, we quantify the velocity and nature of neighborhood transitions. When the model detects abnormal accelerations in a grid's drift velocity, it indicates severe physical restructuring. This trajectory deviation serves as a high-resolution early-warning system to "nowcast" acute gentrification, enabling planners to intervene proactively and mitigate the displacement of vulnerable populations.
 
-## Repository Structure
-* `urban_app.py`: The main Streamlit application providing an interactive 3D Deck.gl atlas and static matplotlib renderings.
-* `Data/`: Directory intended for the global urban evolution dataset (`Global_Urban_Evolution_2016_2025.csv`).
-* `temp_maps/`: Auto-generated directory for caching Contextily enhanced basemaps.
-
 ## Installation and Usage
 
 ### Prerequisites
